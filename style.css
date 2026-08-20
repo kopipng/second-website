@@ -1,0 +1,31 @@
+body {
+    background-color:midnightblue;
+}
+
+h1 {
+    color:aliceblue;
+    text-align: center;
+}
+h3 {
+    color:lavender;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.WOW {
+    color: brown;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    font-family: Garamond, serif;
+}
+
+.smol {
+    font-size: 15px;
+    font-style: italic;
+}
