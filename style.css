@@ -16,6 +16,27 @@ p {
     text-align: center;
 }
 
+
+p.one {
+    max-width: 250px;
+    height: 80px;
+    margin: auto;
+    text-align: left;
+    border-color: aliceblue;
+    border-width: 1px;
+    border-style: solid;
+    padding: 10px;
+}
+
+p.two {
+    border-left: 5px solid chartreuse;
+    max-width: 250px;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+}
+
+
 .WOW {
     color: brown;
     font-size: 25px;
@@ -26,7 +47,8 @@ p {
 }
 
 .smol {
-    font-size: 15px;
+    font-size: 12px;
     font-style: italic;
+    font-family:'Times New Roman', Times, serif
 }
 

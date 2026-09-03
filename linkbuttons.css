@@ -1,0 +1,11 @@
+a:link, a:visited{
+    color:gold;
+    background-color:darkturquoise;
+    text-decoration: none;
+    padding: 25px 25px;
+    display:inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+}
