@@ -18,8 +18,8 @@ p {
 
 
 p.one {
-    max-width: 250px;
-    height: 80px;
+    max-width: 300px;
+    height: fit-content;
     margin: auto;
     text-align: left;
     border-color: aliceblue;
@@ -35,6 +35,12 @@ p.two {
     margin: auto;
     padding: 10px;
 }
+
+div.card{
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
 
 
 .WOW {
