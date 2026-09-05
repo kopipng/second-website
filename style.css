@@ -41,7 +41,29 @@ div.card{
     margin-bottom: 10rem;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(220, 220, 220, 0.6);
+    width:auto;
+}
 
+ul li {
+    float: left;
+}
+ul li a:link, ul li a:visited {
+    display: block;
+    color: darkblue;
+    padding: 8px;
+    text-decoration: none;
+}
+
+ul li a:hover, ul li a:active {
+    text-decoration: underline;
+    color: lime;
+}
 
 .WOW {
     color: brown;
